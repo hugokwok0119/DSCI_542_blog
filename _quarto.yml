@@ -4,7 +4,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://dsci_542_blog_hhkwok # you must change this appropriately for RSS feeds to work properly
+  site-url: https://hugokwok0119.github.io/DSCI_542_blog/ # you must change this appropriately for RSS feeds to work properly
   title: "DSCI_542_blog"
   navbar:
     right:
